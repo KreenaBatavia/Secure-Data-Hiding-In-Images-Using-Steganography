@@ -1,0 +1,1 @@
+This project implements a secure steganography-based data hiding technique that allows users to embed and extract hidden messages within images without noticeable distortion. By leveraging Least Significant Bit (LSB) encoding, password-protected access, and adaptive pixel selection, this method ensures high confidentiality, undetectability, and secure data transmission.
